@@ -1,5 +1,5 @@
 {
-  "name": "eseperio/verifactu-php",
+  "name": "r3n3g/verifactu-php",
   "description": "Librería para la integración del sistema de la agencia tributaria española \"Veri*factu\" (verifactu)",
   "type": "library",
   "require": {
